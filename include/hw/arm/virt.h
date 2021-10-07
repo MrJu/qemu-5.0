@@ -80,6 +80,7 @@ enum {
     VIRT_PCDIMM_ACPI,
     VIRT_ACPI_GED,
     VIRT_LOWMEMMAP_LAST,
+    VIRT_FOO,
 };
 
 /* indices of IO regions located after the RAM */
